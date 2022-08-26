@@ -1,1 +1,1 @@
-# cake-website
+# Simple cake ordering website
