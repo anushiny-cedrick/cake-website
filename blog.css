@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background: rgb(31, 30, 30);
+    display: flex;
+}
+.logo{
+    flex: 30%;
+    border-radius: 25px;
+}
+.logo img{
+    border-radius: 40px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.links{
+    flex: 70%;
+    margin-top: 50px;
+}
+.links a{
+    padding: 10px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 30px;
+}
